@@ -1,5 +1,9 @@
-#	**About chat-application**
+#	**About random-quote-generator**
+
+
 This is application will generate an anime quote on click. Here I used the notion of API, and async/await and fetch
+
+
 **Anime quote API :https://animechan.vercel.app/**
 
 # Getting Started with Create React App
